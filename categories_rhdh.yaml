@@ -1,0 +1,8 @@
+plugins: dynamic plugins including ArgoCD, Tekton, Keycloak, JFrog, Nexus, Topology
+kubernetes: Kubernetes integration, resources, annotations, and cluster configuration
+authentication: authentication and authorization including Keycloak, OAuth, and security
+rbac: role-based access control, permissions, policies, and conditional policies
+catalog: software catalog, entities, catalog-info.yaml annotations and metadata
+configuration: app-config.yaml configuration, proxy settings, and environment setup
+installation: installation, deployment, and initial setup of Developer Hub
+ci_cd: continuous integration and delivery, pipelines, GitOps, and Argo CD Rollouts
