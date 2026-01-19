@@ -1,6 +1,7 @@
 # Q&A Dataset
 
 This directory contains the raw and processed Q&A dataset used for analysis and evaluation. 
+The Q&A dataset is generated with [Ragas: Testset Generation for RAG](https://docs.ragas.io/en/stable/concepts/test_data_generation/rag/)
 
 
 ## 📝 Detailed Descriptions
